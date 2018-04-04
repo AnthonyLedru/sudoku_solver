@@ -9,7 +9,10 @@ Run `make` command and an executable called `sudoku_solver` should be created.
 ./sudoku_solver line0 line1 line2 line3 line4 line5 line6 line7 line8
 
 Example of line "9...7...."
+
 ```
+
+The grid you specifie must be valid or the program will print an error.
 
 ## Example
 
