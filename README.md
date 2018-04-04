@@ -14,6 +14,10 @@ Example of line "9...7...."
 
 The grid you specifie must be valid or the program will print an error.
 
+A valid grid has:
+- Line well formated.
+- Only one solution.
+
 ## Example
 
 ```
