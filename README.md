@@ -26,4 +26,4 @@ Run `make` command and an executable called `sudoku_solver` should be created.
 ```
 ## Subject
 
-https://github.com/AnthonyLedru/fillit/blob/master/colle01.pdf
+https://github.com/AnthonyLedru/sudoku_solver/blob/master/colle01.pdf
