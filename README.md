@@ -1,7 +1,7 @@
 # Sudoku Solver
 Solve a sudoku with backtracking method.
 
-This code complies with the 42 school norm: https://github.com/AnthonyLedru/norm/blob/master/norme.pdf
+This code complies with the 42 school norm: https://github.com/AnthonyLedru/sudoku_solver/blob/master/norm.pdf
 
 ## Compiling
 Run `make` command and an executable called `sudoku_solver` should be created.
